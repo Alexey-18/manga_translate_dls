@@ -402,4 +402,4 @@ python tests/test_performance.py --samples 100
 
 Если проект оказался полезным, поставьте звезду на GitHub! Это помогает проекту стать заметнее.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ваш-username/manga-auto-translator&type=Date)](https://star-history.com/#ваш-username/manga-auto-translator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Alexey-18/manga-auto-translator&type=Date)](https://star-history.com/#ваш-username/manga-auto-translator&Date)
